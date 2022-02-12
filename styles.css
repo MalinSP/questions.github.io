@@ -128,3 +128,8 @@ a {
 .show-question .plus-icon {
   display: none;
 }
+@media screen and (max-width: 426px) {
+  .questions h2 {
+    font-size: 1.8rem;
+  }
+}
